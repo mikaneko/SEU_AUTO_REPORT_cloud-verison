@@ -1,3 +1,4 @@
 # my gitignore
 .idea/
 venv/
+dev_dev/
